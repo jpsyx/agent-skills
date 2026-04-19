@@ -1,17 +1,17 @@
-# jpsyx's skills
+# jpsyx's agent skills
 
 A collection of reusable agent skills for AI coding assistants.
 
 ## Installation
 
 ```bash
-npx skills add jpsyx/skills
+npx skills add jpsyx/agent-skills
 ```
 
 To install a specific skill:
 
 ```bash
-npx skills add jpsyx/skills --skill supabase-declarative-schema
+npx skills add jpsyx/agent-skills --skill supabase-declarative-schema
 ```
 
 ## Available Skills
